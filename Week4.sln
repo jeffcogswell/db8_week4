@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfObjects", "ListOfObje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOfObjects", "DictionaryOfObjects\DictionaryOfObjects.csproj", "{308A7ACB-220B-49E9-8ED3-A3CD583D4E95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mammals", "Mammals\Mammals.csproj", "{59BEFFD5-2B25-434F-B332-44103DA6C268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{B7374C09-9554-4193-9768-8E02035B5974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{308A7ACB-220B-49E9-8ED3-A3CD583D4E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{308A7ACB-220B-49E9-8ED3-A3CD583D4E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{308A7ACB-220B-49E9-8ED3-A3CD583D4E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BEFFD5-2B25-434F-B332-44103DA6C268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BEFFD5-2B25-434F-B332-44103DA6C268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BEFFD5-2B25-434F-B332-44103DA6C268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BEFFD5-2B25-434F-B332-44103DA6C268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7374C09-9554-4193-9768-8E02035B5974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7374C09-9554-4193-9768-8E02035B5974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7374C09-9554-4193-9768-8E02035B5974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7374C09-9554-4193-9768-8E02035B5974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
