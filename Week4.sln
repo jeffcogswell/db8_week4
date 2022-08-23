@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mammals", "Mammals\Mammals.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{B7374C09-9554-4193-9768-8E02035B5974}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaApp", "MediaApp\MediaApp.csproj", "{4335A18F-095B-4A6B-B0CA-1224E3980C7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B7374C09-9554-4193-9768-8E02035B5974}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7374C09-9554-4193-9768-8E02035B5974}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7374C09-9554-4193-9768-8E02035B5974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4335A18F-095B-4A6B-B0CA-1224E3980C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4335A18F-095B-4A6B-B0CA-1224E3980C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4335A18F-095B-4A6B-B0CA-1224E3980C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4335A18F-095B-4A6B-B0CA-1224E3980C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
